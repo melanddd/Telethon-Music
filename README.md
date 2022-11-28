@@ -19,6 +19,8 @@ Note: This Code Based On Telethon So You need [Telethon String Session](https://
 
 <h4>Click the button below to import this code. How to host? Simply import this code then fill your vars in config.py then go to Actions and check build logs!</h4>
 <p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
+  
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/melanddd/Telethon-Music&branch=name&name=gjkjhhhh)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables in config], ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
